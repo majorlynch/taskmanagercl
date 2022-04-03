@@ -1,0 +1,6 @@
+{
+        "config_id": "development",
+        "app_name":"Task Manager",
+        "app_desc":"Task Manager Nodejs application",
+        "node_port": 3000
+}
